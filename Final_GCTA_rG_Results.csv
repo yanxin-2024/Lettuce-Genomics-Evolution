@@ -1,0 +1,11 @@
+Trait_A,Trait_B,rG,SE
+Flower_anthocyanin_presence,Flowering_time,-0.306,0.316
+Flower_anthocyanin_presence,Leaf_color_intensity,0.072,0.399
+Flower_anthocyanin_presence,Plant_diameter,-0.256,0.388
+Flowering_time,Leaf_color_intensity,-0.097,0.298
+Flowering_time,Tipburn_sensitivity,-0.697,1.217
+Flowering_time,Homogeneity,0.542,1.199
+Leaf_anthocyanin_pattern,Plant_diameter,-0.596,0.384
+Leaf_blistering,Leaf_color_intensity,0.496,0.32
+Leaf_color_intensity,Plant_diameter,-0.058,0.332
+,,,
